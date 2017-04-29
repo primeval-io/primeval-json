@@ -16,7 +16,7 @@
 	<description>Primeval JSON support</description>
 
 	<properties>
-		<primeval-commons.version>1.0.0-SNAPSHOT</primeval-commons.version>
+		<primeval-commons.version>1.0.0</primeval-commons.version>
 	</properties>
 
 	<dependencies>
